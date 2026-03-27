@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksap_architecture_center=globalThis.webpackChunksap_architecture_center||[]).push([[36427],{36427(e,a,c){c.d(a,{createGitGraphServices:()=>r.b});var r=c(26729);c(84521)}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksap_architecture_center=globalThis.webpackChunksap_architecture_center||[]).push([[98644],{98644(e,c,r){r.d(c,{createArchitectureServices:()=>t.S});var t=r(85877);r(84521)}}]);
